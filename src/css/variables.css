@@ -33,13 +33,13 @@ body {
 
 .background {
   background-color: var(--black);
-  background-image: url('../images/background.png');
+  background-image: url('/images/background.png');
   min-width: 320px;
 }
 
 @media (min-resolution: 2dppx) {
   .hero {
-    background-image: url('../images/background@2x.png');
+    background-image: url('/images/background@2x.png');
   }
 }
 
